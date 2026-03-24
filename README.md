@@ -49,7 +49,7 @@ project_api
 - main.py
 - requirements.txt
 - screenshots
-- README.md/
+- README.md
 
 
 ## ▶️ How to Run the Project
